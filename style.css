@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#text{
+    margin: 20px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#text2{
+    font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+#text3{
+        font-family: "Ga Maamli", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+h1{
+    margin: 20px 0;
+    text-align: center;
+    
+}
+
+#welcome{
+    background-color: aqua;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    color: blueviolet;
+}
+
+/* #p{ */
+    color: ;
+}
+
+#welcome{
+    color: rgb(223, 124, 88);
+}
+
+#letter{
+    margin-top: 50px;
+    letter-spacing: 10px;
+} 
+
+#space {
+    text-align: justify;
+    background-color: rgb(94, 212, 192);
+    line-height: 3;   
+}
